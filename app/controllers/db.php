@@ -104,7 +104,7 @@ class DbController extends BaseController
             x("copy_indexes", 1);
             $this->target_host = "";
             $this->target_sock = "";
-            $this->target_port = 27017;
+            $this->target_port = 28018;
             $this->target_auth = 0;
             $this->target_username = "";
             $this->target_password = "";

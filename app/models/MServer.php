@@ -8,7 +8,7 @@ class MServer
     private $_mongoName = null;
     private $_mongoSock = null;
     private $_mongoHost = "127.0.0.1";
-    private $_mongoPort = 27017;
+    private $_mongoPort = 28018;
     private $_mongoUser = "";
     private $_mongoPass = "";
     private $_mongoAuth = false;
